@@ -1,0 +1,51 @@
+bodyStyle,color,drivingMiles,earliestLocalLocation_locationId,fuelType,interiorColor,kbbTrim,locationId,make,mileage,milesPerGallon,model,parentModel,price_kbbValue,price_total,seatingCapacity,stockNumber,trim,vdpSlug,vehicleId,vehicleInventoryType,vin,year,zip_code
+Suv,Black,433.0,136.0,Gas,Black,2.0T SEL Premium 4MOTION Sport Utility 4D,128,Volkswagen,29513,24,Tiguan,Tiguan,24451.0,24590.0,5,2003416822,2.0T SEL Premium 4MOTION,2019-volkswagen-tiguan-2.0t-sel-premium-4motion,3435253,1,3VV4B7AX3KM063031,2019,30318
+Sedan,Black,723.0,52.0,Gas,Black,Sport Sedan 4D,232,Honda,52367,31,Accord,Accord,22713.0,23990.0,5,2003434084,Sport,2019-honda-accord-sport,3460081,1,1HGCV1F31KA117283,2019,93722
+Suv,Red,1205.0,101.0,Gas,Black,Latitude Sport Utility 4D,247,Jeep,63973,24,Renegade,Renegade,16013.0,17990.0,5,2003462936,Latitude,2020-jeep-renegade-latitude,3476048,1,ZACNJABB0LPL47153,2020,92805
+Suv,Blue,852.0,461.0,Electric,Black,Long Range Sport Utility 4D,79,Tesla,53487,131,Model Y,Model Y,32126.0,27590.0,5,2003405738,Long Range,2021-tesla-model-y-long-range,3427493,1,5YJYGDEE1MF185614,2021,2139
+Sedan,Gray,418.0,325.0,Gas,Black,S Sedan 4D,300,Kia,26115,36,Rio,Rio,17515.0,18990.0,5,2003436415,S,2023-kia-rio-s,3450178,1,3KPA24AD9PE570555,2023,97402
+Sedan,White,285.0,30.0,Electric,Black,Long Range Sedan 4D,6,Tesla,47260,124,Model 3,Model 3,30528.0,25590.0,5,2003436793,Long Range,2021-tesla-model-3-long-range,3444409,1,5YJ3E1EB1MF069740,2021,78251
+Suv,Black,50.0,109.0,Gas,Gray,SE Sport Utility 4D,356,Volkswagen,32257,31,Taos,Taos,19722.0,22990.0,5,2003417676,SE,2022-volkswagen-taos-se,3476545,1,3VVTX7B26NM018525,2022,90011
+Suv,Green,667.0,461.0,Gas,Black,SX Sport Utility 4D,117,Kia,44827,21,Telluride,Telluride,36160.0,37590.0,7,2003424587,SX,2022-kia-telluride-sx,3443223,1,5XYP5DHC6NG209511,2022,1852
+Suv,Gray,937.0,325.0,Gas,Black,Denali Sport Utility 4D,356,GMC,76072,18,Terrain,Terrain,14333.0,18590.0,5,2003437410,Denali,2016-gmc-terrain-denali,3448748,1,2GKFLVE34G6303435,2016,97080
+Sedan,Gray,175.0,27.0,Gas,Black,528i xDrive Sedan 4D,224,BMW,77076,26,5 Series,5 Series,15999.0,17990.0,5,2003425512,528i xDrive,2016-bmw-5-series-528i-xdrive,3438482,1,WBA5A7C52GG150385,2016,77036
+Sedan,Gray,345.0,464.0,Gas,Black,2.5 SL Sedan 4D,131,Nissan,63216,31,Altima,Altima,12165.0,16990.0,5,2003428937,2.5 SL,2016-nissan-altima-2.5-sl,3444590,1,1N4AL3AP7GC295220,2016,30268
+Suv,Red,357.0,136.0,Gas,Black,ES Sport Utility 4D,128,Mitsubishi,6554,26,Outlander,Outlander,25189.0,25990.0,7,2003504260,ES,2022-mitsubishi-outlander-es,3501122,1,JA4J4TA87NZ033573,2022,31201
+Sedan,Black,45.0,136.0,Gas,Gray,SE Sedan 4D,1,Hyundai,108276,30,Sonata,Sonata,7862.0,12990.0,5,2003226851,SE,2016-hyundai-sonata-se,3304114,1,5NPE24AF6GH328787,2016,30318
+Suv,Blue,1012.0,325.0,Gas,Black,RX 350 Luxury Sport Utility 4D,43,Lexus,31668,25,RX,RX,52767.0,51990.0,5,2003461334,RX 350 Luxury,2023-lexus-rx-rx-350-luxury,3470536,1,2T2BAMBA1PC014777,2023,97702
+Sedan,Gray,701.0,110.0,Gas,Black,Sport Sedan 4D,1,Honda,10527,33,Civic,Civic,25514.0,26990.0,5,2003493207,Sport,2024-honda-civic-sport,3489221,1,2HGFE2F53RH568439,2024,33125
+Suv,Silver,782.0,461.0,Gas,Black,B5 Momentum Sport Utility 4D,79,Volvo,20599,24,XC60,XC60,34898.0,31590.0,5,2003363966,B5 Momentum,2022-volvo-xc60-b5-momentum,3420390,1,YV4L12RK5N1987378,2022,1109
+Suv,Black,449.0,461.0,Gas,Black,Sport Utility 4D,248,Acura,102384,22,MDX,MDX,18436.0,20990.0,7,2003441274,base,2018-acura-mdx-base,3456133,1,5J8YD3H36JL006474,2018,1109
+Pickup,Gray,332.0,109.0,Gas,Black,SLT Pickup 4D 5 1/2 ft,43,Ram,75102,17,1500 Classic Crew Cab,1500 Classic,24667.0,26990.0,6,2003507211,SLT 5 1/2 ft,2019-ram-1500-classic-crew-cab-slt-5-12-ft,3501639,1,3C6RR7LT7KG622385,2019,90011
+Suv,Black,1206.0,325.0,Gas,Black,SV Sport Utility 4D,43,Nissan,21560,33,Rogue,Rogue,26996.0,21990.0,5,2003476082,SV,2024-nissan-rogue-sv,3475753,1,5N1BT3BA1RC689559,2024,97008
+Sedan,Silver,10.0,381.0,Gas,Black,2.5 S Sedan 4D,6,Nissan,24290,32,Altima,Altima,20783.0,20590.0,5,2003459596,2.5 S,2024-nissan-altima-2.5-s,3468668,1,1N4BL4BV3RN370509,2024,76244
+Suv,White,665.0,141.0,Gas,Black,S Sport Utility 4D,43,Kia,26732,26,Sorento,Sorento,28981.0,27990.0,7,2003446970,S,2024-kia-sorento-s,3468537,1,5XYRL4JCXRG272366,2024,94601
+Convertible,Silver,26.0,82.0,Gas,Beige,230i Convertible 2D,418,BMW,40402,27,2 Series,2 Series,30791.0,24590.0,4,2003315185,230i,2020-bmw-2-series-230i,3361351,1,WBA2M7C05L7E65631,2020,2124
+Suv,Gray,,,Gas,Black,EX-L Sport Utility 4D,79,Honda,68583,21,Pilot,Pilot,25136.0,24990.0,8,2003511933,EX-L,2020-honda-pilot-ex-l,3507151,1,5FNYF6H52LB011401,2020,2704
+Suv,Gray,1335.0,52.0,Gas,Gray,Onyx Edition Wagon 4D,247,Subaru,1473,28,Outback,Outback,32853.0,34590.0,5,2003359867,Onyx Edition,2024-subaru-outback-onyx-edition,3409570,1,4S4BTALC6R3288920,2024,93722
+Sedan,Gray,952.0,142.0,Gas,Black,2.5 SL Sedan 4D,117,Nissan,13335,30,Altima,Altima,24009.0,22990.0,5,2003503872,2.5 SL,2020-nissan-altima-2.5-sl,3501831,1,1N4BL4EW9LC186084,2020,33647
+Suv,Gray,2182.0,369.0,Electric,Black,Select Sport Utility 4D,162,Ford,36700,86,Mustang MACH-E,Mustang MACH-E,27987.0,26990.0,5,2003397148,Select,2022-ford-mustang-mach-e-select,3428918,1,3FMTK1SS1NMA18678,2022,95213
+Suv,Blue,378.0,84.0,Gas,Black,SV Sport Utility 4D,131,Nissan,26234,31,Rogue,Rogue,27133.0,21990.0,5,2003487214,SV,2024-nissan-rogue-sv,3491882,1,5N1BT3BB5RC720742,2024,30075
+Hatchback,Silver,525.0,325.0,Gas,Black,LS Hatchback 4D,300,Chevrolet,67146,33,Spark,Spark,9239.0,12990.0,4,2003347314,LS,2020-chevrolet-spark-ls,3388331,1,KL8CA6SA2LC407073,2020,97206
+Suv,Silver,659.0,89.0,Gas,Black,Altitude Sport Utility 4D,466,Jeep,10423,25,Cherokee,Cherokee,22907.0,22590.0,5,2003504338,Altitude,2020-jeep-cherokee-altitude,3500205,1,1C4PJLLB6LD511235,2020,32304
+Sedan,Gray,253.0,461.0,Gas,Black,2.5 SR Sedan 4D,13,Nissan,91218,30,Altima,Altima,12159.0,15590.0,5,2003289627,2.5 SR,2018-nissan-altima-2.5-sr,3403186,1,1N4AL3AP8JC113628,2018,1604
+Pickup,Red,1025.0,50.0,Gas,Black,LT Pickup 4D 8 ft,79,Chevrolet,33193,0,Silverado 2500 HD Crew Cab,Silverado 2500,47361.0,48990.0,6,2003457131,LT 8 ft,2023-chevrolet-silverado-2500-hd-crew-cab-lt-8-ft,3476707,1,1GC4YNE7XPF154882,2023,33914
+Suv,Black,1189.0,50.0,Gas,Black,LT Sport Utility 4D,371,Chevrolet,87509,28,Trax,Trax,10376.0,14590.0,5,2003356155,LT,2019-chevrolet-trax-lt,3400731,1,KL7CJLSB5KB920382,2019,33914
+Suv,Black,536.0,142.0,Gas,Black,Standard Sport Utility 4D,111,Lincoln,28297,25,Corsair,Corsair,31937.0,30990.0,5,2003514452,Standard,2023-lincoln-corsair-standard,3507179,1,5LMCJ1CA4PUL24374,2023,33647
+Suv,Red,1672.0,380.0,Electric,Black,Long Range Sport Utility 4D,473,Tesla,45593,129,Model Y,Model Y,33830.0,27990.0,5,2003397163,Long Range,2020-tesla-model-y-long-range,3422804,1,5YJYGDEF8LF003723,2020,97504
+Suv,White,1201.0,142.0,Gas,Black,EX Sport Utility 4D,418,Kia,85325,23,Sportage,Sportage,12057.0,14990.0,5,2003244839,EX,2017-kia-sportage-ex,3320719,1,KNDPNCAC2H7105720,2017,33647
+Suv,White,,,Gas,Black,Limited Sport Utility 4D,246,Jeep,93572,0,Compass,Compass,14852.0,16990.0,5,2003484869,Limited,2019-jeep-compass-limited,3483532,1,3C4NJDCB0KT790980,2019,2704
+Suv,Blue,952.0,142.0,Gas,Black,All New Sport S Sport Utility 4D,117,Jeep,72959,18,Wrangler Unlimited,Wrangler,25337.0,25990.0,5,2003378366,All New Sport S,2018-jeep-wrangler-unlimited-all-new-sport-s,3411695,1,1C4HJXDG2JW212106,2018,33647
+Suv,White,1012.0,325.0,Gas,Black,XLE Sport Utility 4D,43,Toyota,17073,32,Corolla Cross,Corolla Cross,28693.0,29590.0,5,2003420508,XLE,2023-toyota-corolla-cross-xle,3462460,1,7MUDAABG8PV051659,2023,97702
+Suv,Gray,180.0,341.0,Gas,Black,Touring Sport Utility 4D,128,MAZDA,30342,28,CX-5,CX-5,24472.0,23990.0,5,2003454771,Touring,2021-mazda-cx-5-touring,3473139,1,JM3KFACMXM0481108,2021,32218
+Suv,White,877.0,89.0,Gas,Black,Touring Sport Utility 4D,162,MAZDA,84225,31,CX-3,CX-3,11562.0,16990.0,5,2003431325,Touring,2017-mazda-cx-3-touring,3442157,1,JM1DKDC75H0149754,2017,32304
+Suv,White,1083.0,459.0,Gas,Gray,SX Sport Utility 4D,79,Kia,24935,21,Telluride,Telluride,43034.0,42590.0,7,2003435488,SX,2023-kia-telluride-sx,3462741,1,5XYP5DGC7PG400231,2023,33312
+Sedan,White,203.0,110.0,Gas,Black,LX Sedan 4D,128,Kia,72495,27,Optima,Optima,12925.0,15990.0,5,2003421247,LX,2019-kia-optima-lx,3438873,1,5XXGT4L3XKG326716,2019,33125
+Sedan,White,1052.0,459.0,Gas,Black,330i xDrive Sedan 4D,162,BMW,44876,28,3 Series,3 Series,32942.0,29990.0,5,2003458788,330i xDrive,2022-bmw-3-series-330i-xdrive,3472579,1,3MW5R7J02N8C38218,2022,34953
+Sedan,Black,712.0,110.0,Gas,Black,S Sedan 4D,158,Nissan,49258,33,Sentra,Sentra,15421.0,17990.0,5,2003401331,S,2021-nissan-sentra-s,3432888,1,3N1AB8BVXMY262757,2021,33125
+Suv,White,1205.0,101.0,Gas,Other,Limited Sport Utility 4D,247,Subaru,56200,22,Ascent,Ascent,24484.0,25590.0,8,2003450846,Limited,2019-subaru-ascent-limited,3469030,1,4S4WMALD6K3462031,2019,92805
+Suv,Black,332.0,373.0,Gas,Black,Sport Touring Sport Utility 4D,43,Buick,22601,30,Encore GX,Encore GX,24389.0,21990.0,5,2003530894,Sport Touring,2024-buick-encore-gx-sport-touring,3513416,1,KL4AMDSL1RB144921,2024,92154
+Sedan,Other,411.0,82.0,Gas,Other,LE Sedan 4D,334,Toyota,54486,26,Camry,Camry,9842.0,14790.0,5,2003296897,LE,2011-toyota-camry-le,3349549,1,4T1BF3EKXBU696344,2011,2301
+Sedan,Black,253.0,461.0,Gas,Other,1.4T S Sedan 4D,13,Volkswagen,62989,32,Jetta,Jetta,8136.0,14990.0,5,2003334446,1.4T S,2017-volkswagen-jetta-1.4t-s,3374517,1,3VW2B7AJ5HM366268,2017,1604
+Suv,Black,,,Plug-In Hybrid,Black,xDrive30e Sport Utility 4D,13,BMW,41864,24,X3,X3,31817.0,30590.0,5,2003495110,xDrive30e,2021-bmw-x3-xdrive30e,3496914,1,5UXTS1C07M9G72214,2021,2704
+Suv,Black,291.0,82.0,Gas,Gray,LS Sport Utility 4D,13,Chevrolet,95854,27,Equinox,Equinox,16973.0,17990.0,5,2003495904,LS,2022-chevrolet-equinox-ls,3496769,1,2GNAX5EV9N6141821,2022,2124
