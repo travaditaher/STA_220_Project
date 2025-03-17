@@ -1,9 +1,0 @@
-#params to be included in TrueCars
-
-make -> ['Results']['Make']
-model -> ['Model']
-trim -> ['Trim']
-kbbtrim -> ['Trim2']
-bodyclass-> ['BodyClass']
-car ModelYear ['ModelYear']
-seating capacity -> ['Seats']
